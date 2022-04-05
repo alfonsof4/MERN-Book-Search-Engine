@@ -17,6 +17,8 @@ This application requires the usage of a Google Books API to greate a GraphQl AP
 
 ## Installation
 still trying to figure it out
+## Link to deployed App
+https://book-search-engine-af.herokuapp.com/
 ## Contributors
 Alfonso Fernandez 
 https://github.com/alfonsof4
