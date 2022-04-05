@@ -17,10 +17,13 @@ This application requires the usage of a Google Books API to greate a GraphQl AP
 
 ![booksearchsnapshot2](https://user-images.githubusercontent.com/91750315/161857517-ea38863d-c6e6-4960-b8de-89dba681674c.JPG)
 
-
-
 ## Installation
-still trying to figure it out
+npm i 
+* @apollo/client
+* graphql
+* react
+* bootstrat
+npm run develop
 ## Link to deployed App
 https://book-search-engine-af.herokuapp.com/
 ## Contributors
