@@ -13,6 +13,10 @@ This application requires the usage of a Google Books API to greate a GraphQl AP
 * Dotenv
 * Heroku
 ## SnapShot
+![booksearchsnapshot](https://user-images.githubusercontent.com/91750315/161857508-25a1f19d-e2c5-4e3a-b6e7-8ac805b7b82d.JPG)
+
+![booksearchsnapshot2](https://user-images.githubusercontent.com/91750315/161857517-ea38863d-c6e6-4960-b8de-89dba681674c.JPG)
+
 
 
 ## Installation
