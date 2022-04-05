@@ -10,7 +10,6 @@ This application requires the usage of a Google Books API to greate a GraphQl AP
 * Graphql
 * Mongodb
 * Mongoose
-* Dotenv
 * Heroku
 ## SnapShot
 ![booksearchsnapshot](https://user-images.githubusercontent.com/91750315/161857508-25a1f19d-e2c5-4e3a-b6e7-8ac805b7b82d.JPG)
